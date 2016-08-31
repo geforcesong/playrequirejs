@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/geforcesong/playrequirejs/issues"
   },
-  "homepage": "https://github.com/geforcesong/playrequirejs#readme"
+  "homepage": "https://github.com/geforcesong/playrequirejs#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
 }
