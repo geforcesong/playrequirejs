@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "lite-server"
+    "start": "lite-server",
+    "build": "node ./node_modules/requirejs/bin/r.js -o build.js"
   },
   "repository": {
     "type": "git",
