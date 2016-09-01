@@ -13,7 +13,7 @@ coverage/
 .metadata/
 .sass-cache/
 public/css/desktop/generated/
-
+main-built.js
 public/css/*.scss
 public/css/*.css
 public/css/*.map
