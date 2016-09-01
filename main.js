@@ -4,7 +4,6 @@ require.config({
     }
 });
  
-require(['math','multiply'], function( math, multiply) {
+require(['jquery','math','multiply'], function($, math, multiply) {
     alert(math.add(1,2) + ' and ' + multiply.multiply(4,5));
-
 });
